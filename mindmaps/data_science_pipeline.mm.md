@@ -1,0 +1,125 @@
+---
+markmap:
+  colorFreezeLevel: 2
+---
+
+# Data Science Pipeline
+
+- Data Acquisition
+    - Data Sources
+        - Databases
+        - APIs
+        - Web Scraping
+        - Files
+        - Sensor Data
+        - Social Media
+        - Cloud Storage
+    - Data Collection Methods
+        - Batch Processing
+        - Real-Time Streaming
+        - Manual Entry
+        - Automated Crawlers
+
+- Data Preparation
+    - Data Cleaning
+        - Handling Missing Values
+        - Removing Duplicates
+        - Correcting Errors
+        - Outlier Detection
+    - Data Transformation
+        - Normalization & Standardization
+        - Scaling & Rescaling
+        - Feature Encoding
+        - Feature Engineering
+        - Binning & Discretization
+        - Aggregation & Summarization
+    - Data Integration
+        - Combining Data
+        - Schema Matching
+    - Data Reduction
+        - Dimensionality Reduction
+        - Feature Selection
+
+- Exploratory Data Analysis
+    - Data Understanding
+        - Descriptive Statistics
+        - Data Distributions
+        - Identifying Data Types
+        - Correlation Analysis
+    - Data Visualization
+        - Charts
+        - Heatmaps
+        - Boxplots
+        - Pair Plots
+    - Hypothesis Testing
+        - Statistical Tests
+        - Anomaly Detection
+    - Insights & Observations
+        - Patterns & Trends
+        - Formulating Hypotheses
+
+- Model Selection & Training
+    - Algorithm Selection
+        - Regression Models
+        - Classification Models
+        - Clustering Models
+        - Time Series Models
+        - Deep Learning
+        - Ensemble Methods
+    - Model Training
+        - Splitting Data
+        - Feature Scaling
+        - Parameter Tuning
+        - Iterative Refinement
+        - Model Serialization
+
+- Model Evaluation
+    - Performance Metrics
+        - Regression Metrics
+        - Classification Metrics
+        - Clustering Metrics
+    - Model Validation
+        - Cross-Validation
+        - ROC Curves
+     - Hyperparameter Optimization
+     - Model Diagnostics
+         - Bias/Variance
+         - Residual Analysis
+    - Model Selection
+
+- Model Deployment
+    - Deployment Options
+        - Cloud Platforms
+        - Containerization
+        - API Endpoints
+        - Web Applications
+        - Mobile Apps
+        - Embedded Systems
+    - Scalability & Reliability
+        - Load Balancing
+        - Monitoring
+        - Automated Deployment
+
+- Model Monitoring & Maintenance
+    - Performance Tracking
+        - Real-Time Monitoring
+        - Performance Degradation
+    - Model Retraining
+        - Refit Model
+        - Concept Drift
+    - Model Updates
+        - New Algorithms
+        - Improving Models
+     - Version Control
+
+- Communication & Reporting
+    - Results Interpretation
+        - Drawing Conclusions
+    - Report Generation
+        - Creating Visualizations
+        - Writing Reports
+        - Presentation Creation
+    - Stakeholder Communication
+        - Presenting Findings
+        - Translating Technical
+        - Collaboration & Feedback
